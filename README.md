@@ -1,4 +1,4 @@
-Unix Workbench Assignment: Bash, Make, Git, and GitHub 
+Title of the project: Peer-graded Assignment: Bash, Make, Git, and GitHub 
 
 Make file was ran at: 2020-10-18:10:04:42 
 
